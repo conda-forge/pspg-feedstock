@@ -1,5 +1,5 @@
 context:
-  version: "5.9.0"
+  version: "5.9.1"
 
 package:
   name: pspg
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/okbob/pspg/archive/${{ version }}.tar.gz
-  sha256: 732b39f5dc7ec8327935e2fa06a62899589e0b3e16fd99dc7e5f8259104683c1
+  sha256: d61d82a2e8c8980d52d2715bb2cc32bfb20e8a2a15ea15bdb7105a2ff5ea1ac4
 
 build:
   number: 0
